@@ -18,3 +18,8 @@ shodanhq.com
 http://en.wikipedia.org/wiki/Shodan_(website)
 
 http://money.cnn.com/2013/04/08/technology/security/shodan/
+
+
+CopyRights
+-------------------
+Property of University of Arizona.
